@@ -1,7 +1,7 @@
-
-
-
-## Research 
+# Final Project Part2
+## Wireframe & Stroyboard
+![71769811_2351618638435257_5643830010423803904_n](https://user-images.githubusercontent.com/54478312/66244932-ca211180-e6d8-11e9-9537-90ad6e1c8b52.jpg)
+## User Research
 **Target Audience:** My telling story with data class's classmates at Heinz College. Since there will have Network in New York in the coming week, this group of people may want to know where they can get good food in the city.
 
 **Interview Script:**
@@ -15,4 +15,9 @@
 1. Can't envision what the map would be like.
 2. The dollar sign presented in scene 5 makes them hard to differentiate the data from these three groups.
 3. Ending in a way that looks like the story is not finished
+
+## Adjusted wireframe
+1. I'll add one more call to action part for the ending of the story. See as below:
+![71932168_1166077303578998_6886427094981541888_n](https://user-images.githubusercontent.com/54478312/66244939-d1e0b600-e6d8-11e9-8b12-69d6261e119e.jpg)
+2. I'll remove the dollor sign in the wireframe 5, and change to use color to differenciate these three groups.
 
