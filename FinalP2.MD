@@ -20,6 +20,10 @@
 1. I'll add one more call to action part for the ending of the story. See as below:
 ![71932168_1166077303578998_6886427094981541888_n](https://user-images.githubusercontent.com/54478312/66244939-d1e0b600-e6d8-11e9-8b12-69d6261e119e.jpg)
 2. I'll remove the dollor sign in the wireframe 5, and change to use color to differenciate these three groups.
-![Picture1](https://user-images.githubusercontent.com/54478312/66246330-7a931380-e6e1-11e9-986f-cab1b7bdcd76.png)
+![5](https://user-images.githubusercontent.com/54478312/66246810-30139600-e6e5-11e9-8172-7421e2bb2efc.png)
 3. Other digitalized wireframes
+![3](https://user-images.githubusercontent.com/54478312/66246802-2427d400-e6e5-11e9-882f-5c2e433a48d6.png)
+
+![4](https://user-images.githubusercontent.com/54478312/66246809-2d18a580-e6e5-11e9-9fb8-058d669dc3c4.png)
+
 
