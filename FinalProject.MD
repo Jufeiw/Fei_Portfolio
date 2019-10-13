@@ -13,5 +13,5 @@ https://carnegiemellon.shorthandstories.com/jufeiw/index.html
 ## Data Resource:
 https://www.kaggle.com/jackywang529/michelin-restaurants
 
-## [Portfolio](readme.md)
+## [Portfolio](/README.md)
 
