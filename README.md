@@ -8,6 +8,6 @@ My name is Jufei, I'm the 2nd year Arts Management student at Heinz. I'm from Ta
 I'm interested in learning how data visualization can be applied on various field.
 
 # Data visualization works
-[OECD Data Visualozation](/dataviz2.md)
-[Data visualization Redesign](/dataviz3.md)
-[Final Project/ Data Story](/FinalProject)
+## [OECD Data Visualozation](/dataviz2.md)
+## [Data visualization Redesign](/dataviz3.md)
+## [Final Project/ Data Story](/FinalProject)
