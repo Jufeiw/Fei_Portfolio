@@ -1,4 +1,4 @@
-# Final Project:
+# Final Project
 ## Design concept of my final project
 The intended audience for my final project: Collecting Michelin Stars with Data is all Heinz College students who are going to Network in New York on the week of October 14. I know I’m going to present in a room with all my classmates, so I choose to pick a topic that is relatively relevant to them. Also, it helps me to develop the storyline of the project. First, I give an overall introduction about exactly how many Michelin restaurants are there in New York City. Then, since my audience is all students, I decided to narrow down the topic to introduce only one-star Michelin restaurants in the city.
 
